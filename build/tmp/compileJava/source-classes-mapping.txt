@@ -1,7 +1,11 @@
+com/example/webflux/bookservice/web/BookHandler.java
+ com.example.webflux.bookservice.web.BookHandler
 com/example/webflux/bookservice/service/BookServiceImpl.java
  com.example.webflux.bookservice.service.BookServiceImpl
 com/example/webflux/bookservice/service/BookService.java
  com.example.webflux.bookservice.service.BookService
+com/example/webflux/bookservice/web/BookRouter.java
+ com.example.webflux.bookservice.web.BookRouter
 com/example/webflux/bookservice/controller/BookController.java
  com.example.webflux.bookservice.controller.BookController
 com/example/webflux/bookservice/model/Book.java

@@ -1,6 +1,9 @@
 ## bookservice-webflux
 This is sample Book Service application using web-flux
 
+## bookservice-webflux-functional
+The Router and Handler are sample functional endpoints for the bookservice application
+
 ## Building and running locally
 In order to run this project locally, you will need the following installed
 - Java Development Kit (JDK; has been tested with openjdk 11 and 13)
